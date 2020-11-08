@@ -6,7 +6,7 @@ Prerequisites:\
 - python\
 - ansible\
 
-Recipe:\
+Recipe:
 ---
-1 create the AWS resources - use the "setup-env.yml" CloudFormation template in setup folder\
+1 create the AWS resources - use the "setup-env.yml" CloudFormation template in setup folder \
 2 update servers, install and update services - use the "all-playbooks.yml" in playbooks folder\
