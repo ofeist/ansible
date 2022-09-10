@@ -9,3 +9,4 @@ lb1 ansible_host=54.211.40.250
 
 [local]
 control ansible_connection=local
+
